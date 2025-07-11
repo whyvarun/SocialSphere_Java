@@ -1,0 +1,12 @@
+com\socialsphere\servlet\PostServlet.class
+com\socialsphere\dao\CommentDAO.class
+com\socialsphere\dao\UserDAO.class
+com\socialsphere\dao\DatabaseConnection.class
+com\socialsphere\servlet\RegisterServlet.class
+com\socialsphere\dao\PostDAO.class
+com\socialsphere\model\Comment.class
+com\socialsphere\servlet\LogoutServlet.class
+com\socialsphere\model\Post.class
+com\socialsphere\model\User.class
+com\socialsphere\servlet\LoginServlet.class
+com\socialsphere\servlet\CommentServlet.class
